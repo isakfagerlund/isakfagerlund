@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+📍 Currently located in Berlin - Germany
+
+🔭 Working at [PiNCAMP](https://www.pincamp.de/)
+
+🇸🇪 Born in Sweden
+
 <!--
 **isakfagerlund/isakfagerlund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
