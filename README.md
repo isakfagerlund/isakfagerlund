@@ -2,7 +2,7 @@
 
 📍 Currently located in Berlin - Germany
 
-🔭 Working at [PiNCAMP](https://www.pincamp.de/)
+🔭 Working at [Enpal](https://www.enpal.de/)
 
 🇸🇪 Born in Sweden
 
