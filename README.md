@@ -2,7 +2,7 @@
 
 📍 Currently located in Berlin - Germany
 
-🔭 Working at [Enpal](https://www.enpal.de/)
+🔭 Building [SHK Power](https://www.shkpower.de/)
 
 🇸🇪 Born in Sweden
 
