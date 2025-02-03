@@ -2,7 +2,7 @@
 
 📍 Currently located in Berlin - Germany
 
-🔭 Building [SHK Power](https://www.shkpower.de/)
+🔭 Building at autarc
 
 🇸🇪 Born in Sweden
 
